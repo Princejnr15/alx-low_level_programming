@@ -1,17 +1,22 @@
 #include "main.h"
 
 /**
- * main - Entry point
+ * main - Prints "Alphabet" followed ba a new line.
  *
- * Return: Always returns 0
- *
+ * Return: Always 0.
  */
 int main(void)
 {
-	_putchar('M');
-	_putchar('a');
-	_putchar('i');
-	_putchar('n');
-	_putchar('\n');
-	return (0);
+	_putchar('A')
+	_putchar('l')
+	_putchar('p')
+	_putchar('h')
+	_putchar('a')
+	_putchar('b')
+	_putchar('e')
+	_putchar('t')
+
+
+
+    return (0);
 }
