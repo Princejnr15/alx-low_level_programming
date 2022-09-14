@@ -19,4 +19,3 @@ int main(void)
         retuurn (0);
 
 }
-^c
