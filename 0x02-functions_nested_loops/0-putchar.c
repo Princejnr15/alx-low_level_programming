@@ -1,22 +1,17 @@
-/*
- * File: 0-holberton.c
- * Auth: Brennan D Baraban
- *
- */
-
-#include "alx.h"
+#include "main.h"
 
 /**
- * main - Prints "ALX" followed by a new line.
+ * main - Entry point
  *
- * Return: Always 0.
+ * Return: Always returns 0
+ *
  */
 int main(void)
 {
-	_putchar('A');
-	_putchar('L');
-	_putchar('X');
+	_putchar('M');
+	_putchar('a');
+	_putchar('i');
+	_putchar('n');
 	_putchar('\n');
-
 	return (0);
 }
