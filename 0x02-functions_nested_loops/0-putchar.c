@@ -1,20 +1,20 @@
 #include "main.h"
 
 /**
- * main - Prints "Alphabet" followed ba a new line.
+ * main - Prints "_putchar" followed ba a new line.
  *
  * Return: Always 0.
  */
 int main(void)
 {
-	_putchar('A')
-	_putchar('l')
+	_putchar('_')
 	_putchar('p')
+	_putchar('u')
+	_putchar('t')
+	_putchar('c')
 	_putchar('h')
 	_putchar('a')
-	_putchar('b')
-	_putchar('e')
-	_putchar('t')
+	_putchar('r')
 
 
 
