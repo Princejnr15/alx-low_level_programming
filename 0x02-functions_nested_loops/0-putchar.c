@@ -1,4 +1,10 @@
+/*
+ * File: 0-putchar.c
+ * Auth: Musa Mohammed Ibrahim
+ *
+ */
 #include "main.h"
+
 
 /**
  * main - Prints "_putchar" followed ba a new line.
